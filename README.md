@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Zhuangzhuang He
+- 🔭 I'm a first-year graduate student working on data mining.
+- 🌱 I'm thrilled to learn so much valuable knowledge in this world.
+- ⚡  My dream is to do robot-related work with reinforcement learning and look out into the larger world.
+<a href="https://imgtu.com/i/jJVIn1"><img src="https://s1.ax1x.com/2022/07/04/jJVIn1.jpg" alt="jJVIn1.jpg" border="0" /></a>
 <!--
 **bruno686/bruno686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
