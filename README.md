@@ -1,5 +1,5 @@
 ## Zhuangzhuang He
-- 🔭 I'm a second-year master student working on OOD Generalization, recommendation and so on.
+- 🔭 I'm a final-year master student working on OOD Generalization, recommendation and so on.
 - 🌱 I'm thrilled to learn so much valuable knowledge in this world.
 - ⚡  I like to do work that is as simple and practical as possible as well as rethinking.
 
