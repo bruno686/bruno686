@@ -1,7 +1,6 @@
 ## Zhuangzhuang He
-- 🔭 I'm a final-year master student working on OOD Generalization, recommendation and so on.
+- 🔭 I'm a final-year master student working on LLM Reasoning, recommendation and so on.
 - 🌱 I'm thrilled to learn so much valuable knowledge in this world.
-- ⚡  I like to do work that is as simple and practical as possible as well as rethinking.
 
 <!--
 **bruno686/bruno686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
