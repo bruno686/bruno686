@@ -1,5 +1,5 @@
 ## Zhuangzhuang He
-- 🔭 I'm a final-year master student working on LLM Reasoning, recommendation and so on.
+- 🔭 I'm a final-year master student working on LLM Reasoning, Agent and so on.
 - 🌱 I'm thrilled to learn so much valuable knowledge in this world.
 
 <!--
